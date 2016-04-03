@@ -1,0 +1,8 @@
+{
+  "auths": {
+    "foo.bar.baz": {
+      "email": "foo@bar.com",
+      "auth": "QGZvbzpzdXBlcmR1cGVyZG8="
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "docker-read-auths",
+  "version": "0.1.0",
+  "description": "read registry auths, e.g., like the standard docker client (e.g., from `~/.docker`)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "docker",
+    "dockerode",
+    "auth",
+    "registry",
+    "config"
+  ],
+  "author": "dweinstein",
+  "license": "MIT",
+  "dependencies": {
+    "dockerode-authconfig": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dweinstein/node-docker-read-auths.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dweinstein/node-docker-read-auths/issues"
+  },
+  "homepage": "https://github.com/dweinstein/node-docker-read-auths#readme"
+}
